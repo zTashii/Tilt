@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tilt</string>
+    <string name="htp1">To play this game. You need to tilt your phone to move a ball</string>
+    <string name="htp2">When you move the ball, you must stay within the \nboundaries of the shape otherwise it will be gameover</string>
+    <string name="htpTilt">To use the Tilt feature.\n
+    All you need to do when the game starts is tap the screen when you are ready \n
+    and simply tilt your phone in the direction you want the ball/line to move.</string>
+    <string name="htpTouch">The aim of the game is to trace the shape that appears on the screen by using these 2 features.\n
+    In order to progress to the next level, you have to achieve an almost perfect score.</string>
+    <string name="htpPlay">Good Luck</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
